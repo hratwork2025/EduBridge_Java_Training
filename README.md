@@ -1,7 +1,7 @@
 # EduBridge_Java_Training
 Name: Harsh Raj <br>
-USN: 1VJ25CS020
-Semester: 3rd
-Branch: CSE
-Year: 2026-27
+USN: 1VJ25CS020 <br>
+Semester: 3rd <br>
+Branch: CSE <br>
+Year: 2026-27 <br>
 College: VIJAYA VITTALA INSTITUTE OF TECHNOLOGY, Hennur-Bagalur Road, Bangalore-560077
