@@ -4,7 +4,7 @@ public class AboutMe {
     public static void main(String[] args) {
         System.out.println("Name: Harsh Raj");
         System.out.println("Age: 22");
-        System.out.println("Course: Object-Oriented Programming with Java");
+        System.out.println("Course: Java Programming");
         System.out.println("College: VIJAYA VITTALA INSTITUTE OF TECHNOLOGY");
     }
 }
