@@ -1,4 +1,4 @@
-//  Day 3   8th Question   Counts Digits Recursively
+//  Day 3   8th Question   Count Digits Recursively
 
 public class CountDigitsRecursive {
     static int countDigits(int n) {
