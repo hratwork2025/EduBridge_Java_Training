@@ -3,7 +3,7 @@ PROJECT: Student Report Card Manager
 TEAM MEMBERS: 1. Aradhan Pradhan  (1VJ25CS006)
               2. Harsh Raj        (1VJ25CS020)
               3. Kumbhar Nivedita (1VJ25CS024)
-              4. Mohammad Mujeeb  (1VJ25CS035)
+              4. Mohammed Mujeeb  (1VJ25CS035)
 
 HOW TO RUN
 ----------
