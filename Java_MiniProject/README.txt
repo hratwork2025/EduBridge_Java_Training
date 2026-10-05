@@ -4,7 +4,8 @@ TEAM MEMBERS: 1. Aradhan Pradhan  (1VJ25CS006)
               2. Harsh Raj        (1VJ25CS020)
               3. Kumbhar Nivedita (1VJ25CS024)
               4. Mohammed Mujeeb  (1VJ25CS035)
-
+              5. Deepak S R       (1VJ25CS014)
+              6. Dhanush K S Rao  (1VJ25CS017)
 HOW TO RUN
 ----------
 1. Open a terminal in the "src" folder.
