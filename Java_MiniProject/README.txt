@@ -1,5 +1,5 @@
 # This Is The Java Mini Project
-PROJECT: Student Report Card Manager
+PROJECT TITLE: Student Report Card Manager
 TEAM MEMBERS: 1. Aradhan Pradhan  (1VJ25CS006)
               2. Harsh Raj        (1VJ25CS020)
               3. Kumbhar Nivedita (1VJ25CS024)
